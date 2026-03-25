@@ -1,4 +1,4 @@
-# pp
+# pp - MovieX Project
 
 A new Flutter project.
 
